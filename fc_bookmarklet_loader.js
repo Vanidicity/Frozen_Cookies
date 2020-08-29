@@ -1,5 +1,5 @@
 javascript:(
     function () {
-        Game.LoadMod('https://darkroman.github.io/FrozenCookies/frozen_cookies.js');
+        Game.LoadMod('https://Vanidicity.github.io/Frozen_Cookies/frozen_cookies.js');
     }()
 );
