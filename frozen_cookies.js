@@ -4,7 +4,7 @@ var scriptElement = document.getElementById('frozenCookieScript') !== null ?
     document.getElementById('modscript_frozen_cookies');
 var baseUrl = scriptElement !== null ?
     scriptElement.getAttribute('src').replace(/\/frozen_cookies\.js$/, '') :
-    'https://Vanidicity.github.io/FrozenCookies/';
+    'https://Vanidicity.github.io/Frozen_Cookies/';
 var FrozenCookies = {
     'baseUrl': baseUrl,
     'branch': '',
