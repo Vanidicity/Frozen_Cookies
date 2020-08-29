@@ -15,7 +15,7 @@
 // Github.io: http://lordshinjo.github.io/FrozenCookies/
 
 function LoadFrozenCookies() {
-    Game.LoadMod('https://Vanidicity.github.io/Frozen_Cookies/frozen_cookies.js');
+    Game.LoadMod('https://vanidicity.github.io/Frozen_Cookies/frozen_cookies.js');
 }
 
 window.addEventListener("load", LoadFrozenCookies, false);
