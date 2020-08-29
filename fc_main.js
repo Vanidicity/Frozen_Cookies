@@ -768,7 +768,7 @@ function autoCast() {
 //				if (nextSpellName(0) == "Lucky") {
 					if (cpsBonus() >= 7) {
 						M.castSpell(FTHOF);
-						logEvent('AutoSpell', 'Cast Force the Hand of Fate');
+						logEvent('AutoSpell', 'Cast Force the Hand of Fate Nigga');
 					}
 //				}
 
