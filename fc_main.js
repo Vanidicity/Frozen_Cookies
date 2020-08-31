@@ -766,7 +766,7 @@ function autoCast() {
 //				}
 
 //				if (nextSpellName(0) == "Lucky") {
-					if (cpsBonus() >= 7) {
+					if (cpsBonus() >= FrozenCookies.minCpSMult) {
 						M.castSpell(FTHOF);
 						logEvent('AutoSpell', 'Cast Force the Hand of Fate Nigga');
 					}
